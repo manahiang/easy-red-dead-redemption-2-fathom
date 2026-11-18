@@ -204,4 +204,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Red Dead Redemption 2 · Updated 2026-11-17 · Shared under the MIT License*
+*Red Dead Redemption 2 · Updated 2026-11-18 · Shared under the MIT License*
